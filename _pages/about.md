@@ -1,31 +1,30 @@
 ---
 
-title: "About David Florian"
+title: "About Walker Larivee"
 
 ---
 
-## Education
+##Profile
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Focused and self-driven student with knowledge in software design, prototyping, and circuitry. Experience with customer service as well as automotive repair and maintenance.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
+## Education 
+
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BE in Computer and Electrical Engineering
+  * Minor in Digital Fabrication
+  * Minor in Computer Science
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
-
+* Programming
+  * C/C++
+  * Python
+  * Git 
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
-
-## Press 
-
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
-
-<img src="/assets/img/David_Headshot_web2.jpg" alt="David Florian" style="width:200px;"/>
+* 3D Modeling (Fusion360)
+* Automotive Repair
+* Electronics Repair
+* Soldering and Wiring
+* Woodworking
+* Graphic Design
