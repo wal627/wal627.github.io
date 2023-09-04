@@ -11,7 +11,7 @@ Working to obtain a challenging position as a Computer and Electrical Engineer. 
 ## Education 
 
 * Vanderbilt University
-  * BE in Computer and Electrical Engineering
+  * BE in Computer and Electrical Engineering (2024)
   * Minor in Digital Fabrication
   * Minor in Computer Science
 
