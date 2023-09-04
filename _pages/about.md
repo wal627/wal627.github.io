@@ -6,7 +6,7 @@ title: "About Walker Larivee"
 
 ##Profile
 
-Focused and self-driven student with knowledge in software design, prototyping, and circuitry. Experience with customer service as well as automotive repair and maintenance.
+Working to obtain a challenging position as a Computer and Electrical Engineer. Focused and self-driven student with knowledge in software design, prototyping, and circuitry. Experience with customer service as well as automotive repair and maintenance.
 
 ## Education 
 
@@ -20,9 +20,10 @@ Focused and self-driven student with knowledge in software design, prototyping, 
 * Programming
   * C/C++
   * Python
-  * Git 
-* Fused Filament Fabrication (FFF)
-* 3D Modeling (Fusion360)
+  * Git
+* Digital Fabrication
+  * Fused Filament Fabrication (FFF)
+  * 3D Modeling (Fusion360)
 * Automotive Repair
 * Electronics Repair
 * Soldering and Wiring
