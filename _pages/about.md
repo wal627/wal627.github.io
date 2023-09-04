@@ -4,7 +4,7 @@ title: "About Walker Larivee"
 
 ---
 
-##Profile
+## Profile
 
 Working to obtain a challenging position as a Computer and Electrical Engineer. Focused and self-driven student with knowledge in software design, prototyping, and circuitry. Experience with customer service as well as automotive repair and maintenance.
 
