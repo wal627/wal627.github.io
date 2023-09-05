@@ -18,6 +18,7 @@ gallery:
 * LED indicator for the current working mode of the pump (RED for stopped, YELLOW for paused, GREEN for running, BLUE for reverse).
 * Physical limit switch to prevent running past the end stop.
 * Customizable and easily readable code with adjustable max flow rate, speed, LED colors, etc.
+* Electronics are fully enclosed in a water-resistant case.
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6972764160d20dbe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
