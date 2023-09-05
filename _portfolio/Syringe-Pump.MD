@@ -1,8 +1,6 @@
 ---
 title: "Syringe Pump"
 excerpt: "A push-button controlled syringe pump with an adjustable flow rate."
-header:
-  teaser: /assets/img/Large-Format-3D-Printer-Thumbnail.png
 gallery:
   - image_path: assets/img/Slide-3.png
   - image_path: assets/img/Slide-2.png
