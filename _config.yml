@@ -13,7 +13,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 locale                   : "en-US"
 title                    : "Walker Larivee"
 title_separator          : "-"
-subtitle                 : "Example Website for Class"
+subtitle                 : "Portfolio and Projects"
 name                     : &name "Walker Larivee" # &name is a YAML anchor which can be *referenced later
 description              : &description "Example website for class "
 url                      : https://wal627.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
