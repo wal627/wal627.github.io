@@ -10,11 +10,13 @@ gallery:
 
 # Features
 
+* Customizable and easily readable Arduino IDE code with variable max flow rate, speed, LED colors, etc.
+  * Access the code HERE
 * Potentiometer-controlled adjustable flow rate ranging from 0-5 mL per minute.
 * Dedicated momentary buttons for running the pump in reverse and forward.
-* LED indicator for the current working mode of the pump (RED for stopped, YELLOW for paused, GREEN for running, BLUE for reverse).
+* LED indicator for the current working mode of the pump. 
+  * RED for stopped, YELLOW for paused, GREEN for running, BLUE for reverse.
 * Physical limit switch to prevent running past the end stop.
-* Customizable and easily readable code with adjustable max flow rate, speed, LED colors, etc.
 * Electronics are fully enclosed in a water-resistant case.
 
 # Parts
