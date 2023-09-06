@@ -1,5 +1,5 @@
 ---
-title: "Example Web Page"
+title: "Walker's Portfolio"
 layout: splash
 header:
   overlay_color: "#000"
@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Dr. David Florian is an engineer with a passion for teaching and the open-source community. His area of expertise is 3D printing, with an emphasis on large format pellet extrusion and selective laser sintering."
+excerpt: "Hello! My name is Walker Larivee and I am a student at Vanderbilt University studying Computer and Electrical Engineering. I have a passion for innovation and enjoy making ideas into reality through digital fabrication and programming."
 feature_row:
   - image_path: assets/img/CNC-Mill-Thumbnail.jpg
     alt: "CNC Mill"
