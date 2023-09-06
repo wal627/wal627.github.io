@@ -7,7 +7,7 @@
 
 remote_theme             : "mmistakes/minimal-mistakes@4.24.0"
 
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -84,7 +84,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-    - "https://www.instagram.com/dr.dflo"
+    - "https://www.instagram.com/walker_larivee"
 
 # Analytics
 analytics:
@@ -97,8 +97,8 @@ analytics:
 # Site Author
 author:
   name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : "assets/img/David_Headshot_web2.jpg"
-  bio              : "An engineer with a passion for teaching "
+  avatar           : "assets/img/Walker-headshot.jpg"
+  bio              : "An engineer"
   location         : "Nashville, TN"
   links:
     - label: "GitHub"
@@ -106,7 +106,7 @@ author:
       url: "https://github.com/wal627"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/walker-larivee"
+      url: "https://www.instagram.com/walker_larivee"
 
 
 # Site Footer
@@ -117,7 +117,7 @@ footer:
       url: "https://github.com/wal627"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/walker-larivee"
+      url: "https://www.instagram.com/walker_larivee"
 
 
 # Reading Files
