@@ -2,16 +2,16 @@
 title: "3D-Printed Phone Holder"
 excerpt: "A custom-modeled phone holder with adjustable viewing angles."
 header:
-  teaser: /assets/img/Phone-Holder-3.jpg
+  teaser: /assets/img/Phone-Holder-3.jpeg
 gallery:
-  - url: /assets/img/Phone-Holder-1.jpg
-    image_path: assets/img/Phone-Holder-1.jpg
+  - url: /assets/img/Phone-Holder-1.jpeg
+    image_path: assets/img/Phone-Holder-1.jpeg
     alt: "placeholder image 1"
-  - url: /assets/img/Phone-Holder-2.jpg
-    image_path: assets/img/Phone-Holder-2.jpg
+  - url: /assets/img/Phone-Holder-2.jpeg
+    image_path: assets/img/Phone-Holder-2.jpeg
     alt: "placeholder image 2"
-  - url: /assets/img/Phone-Holder-3.jpg
-    image_path: assets/img/Phone-Holder-3.jpg
+  - url: /assets/img/Phone-Holder-3.jpeg
+    image_path: assets/img/Phone-Holder-3.jpeg
     alt: "placeholder image 3"
 ---
 
@@ -30,3 +30,5 @@ gallery:
 
 # CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+{% include gallery caption="3D-Printed Phone Holder Gallery" %}
