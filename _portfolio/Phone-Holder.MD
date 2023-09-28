@@ -1,6 +1,6 @@
 ---
 title: "3D-Printed Phone Holder"
-excerpt: "A custom-modeled phone holder that attaches to standard bike handlebars and offers adjustable viewing angles."
+excerpt: "A custom-modeled phone holder with adjustable viewing angles."
 header:
   teaser: /assets/img/Phone-Holder-3.jpg
 gallery:
