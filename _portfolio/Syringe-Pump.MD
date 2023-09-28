@@ -1,6 +1,8 @@
 ---
 title: "Syringe Pump"
 excerpt: "A push-button controlled syringe pump with an adjustable flow rate."
+header:
+  teaser: /assets/img/Cyber-Scooter-TH.jpg
 ---
 
 # Features
