@@ -1,6 +1,18 @@
 ---
 title: "3D-Printed Phone Holder"
 excerpt: "A custom-modeled phone holder that attaches to standard bike handlebars and offers adjustable viewing angles."
+header:
+  teaser: /assets/img/Phone-Holder-3.jpg
+gallery:
+  - url: /assets/img/Phone-Holder-1.jpg
+    image_path: assets/img/Phone-Holder-1.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Phone-Holder-2.jpg
+    image_path: assets/img/Phone-Holder-2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Phone-Holder-3.jpg
+    image_path: assets/img/Phone-Holder-3.jpg
+    alt: "placeholder image 3"
 ---
 
 # Features
@@ -17,4 +29,4 @@ excerpt: "A custom-modeled phone holder that attaches to standard bike handlebar
 # Parts
 
 # CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6972764160d20dbe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
