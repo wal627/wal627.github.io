@@ -44,4 +44,4 @@ To create the spring component, I utilized a TPU 95A filament that was elastic e
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e7b6cb6e9695af6ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Gallery
-{% include gallery caption="3D-Printed Phone Holder Gallery" %}
+{% include gallery caption="Multimaterial Pliers Gallery" %}
