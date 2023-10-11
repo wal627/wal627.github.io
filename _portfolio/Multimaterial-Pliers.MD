@@ -2,17 +2,20 @@
 title: "Multimaterial Pliers"
 excerpt: "A custom-modeled pair of pliers utilizing both elastic TPU and rigid PLA."
 header:
-  teaser: /assets/img/Phone-Holder-3.jpeg
+  teaser: /assets/img/Pliers1.jpeg
 gallery:
-  - url: /assets/img/Phone-Holder-1.jpeg
-    image_path: assets/img/Phone-Holder-1.jpeg
+  - url: /assets/img/Pliers1.jpeg
+    image_path: assets/img/Pliers1.jpeg
     alt: "placeholder image 1"
-  - url: /assets/img/Phone-Holder-2.jpeg
+  - url: /assets/img/Pliers2.jpeg
     image_path: assets/img/Phone-Holder-2.jpeg
     alt: "placeholder image 2"
-  - url: /assets/img/Phone-Holder-3.jpeg
+  - url: /assets/img/Pliers3.jpeg
     image_path: assets/img/Phone-Holder-3.jpeg
     alt: "placeholder image 3"
+  - url: /assets/img/PliersGif.gif
+    image_path: assets/img/PliersGif.gif
+    alt: "placeholder gif"
 ---
 
 # Project Description
