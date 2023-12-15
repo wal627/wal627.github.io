@@ -17,10 +17,14 @@ gallery:
 
 # Project Description
 
-The overall goal for this project was to experiment with two new 3D modeling technologies: generative design and stress testing. Generative design is a process that entails creating a bare-bones model of only the most crucial 
+The goal of this project is to homogenize two fluids. 
 
-# Desiging the Deck 
-The rationale for the design was simple; The phone would be clamped in place by a clip and threaded gear, and that assembly would then be placed on a lockable ball-and-socket to offer as many degrees of freedom as possible. The cap of the ball-and-socket is also threaded and can be clamped down to lock the joint into place. Finally, the whole assembly attaches to standard 25mm bike handlebars using heated inserts and M5 screws. Combining the phone clamp, ball-and-socket, and bike clamp, I was able to successfully achieve a phone holder that can fit almost any phone, hold the phone at any reasonable angle, and attach to all standard bike handlebars. I chose to print my phone holder out of PLA for its rigidity, cheap cost, and UV resistance compared to ABS. While materials like carbon fiber were available, these exotic materials can be difficult and unreliable to print, as well as expensive.
+# Slide Fabrication Process
+
+
+
+# Desigin Rationale 
+The homogenizer contains three separate obstacles each connected by a small channel. The first obstacle is a series of zigzags which serve as a preliminary mixing channel without creating much resistance in the flow of the fluid. The next obstacle contains an array of walls that continually change the flow rate and direction of the fluids to promote homogeneity. The last obstacle is a series of ramps that ensure the fluid is mixed in the z-direction as this is the only three-dimensional obstacle.
 
 # Microfluid Homogenizer CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea0939bd38a227bfe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
