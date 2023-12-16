@@ -41,7 +41,7 @@ In the aerospace industry, where weight reduction is critical for fuel efficienc
 
 # Deck Design Rationale
 
-<img src="/img/StressTest.png" alt="Stress Test" width="640" height="480"></img>
+<img src="assets/img/StressTest.png" alt="Stress Test" width="640" height="480"></img>
 
 # Skateboard Deck CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec35f1f6949e1685b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
