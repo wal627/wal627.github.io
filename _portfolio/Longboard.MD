@@ -19,9 +19,9 @@ gallery:
 
 This project delved into the innovative realm of skateboard design, employing generative design for skateboard trucks and stress testing for a longboard deck. The project also emphasized the application of Selective Laser Sintering (SLS) printing, a cutting-edge additive manufacturing technique.
 
-Generative design is a revolutionary approach that utilizes algorithms to iteratively generate design alternatives based on specified constraints and goals. In the context of skateboard trucks, this method allowed for the creation of optimized structures by exploring numerous possibilities, ultimately resulting in a design that maximizes performance while minimizing material usage. The algorithm-driven process considers factors such as load distribution, stress points, and material properties to produce a highly efficient and lightweight design.
+Generative design is a 3D modeling approach that utilizes algorithms to iteratively generate design alternatives based on specified constraints and goals. In the context of skateboard trucks, this method allowed for the creation of optimized structures by exploring numerous possibilities, ultimately resulting in a design that meets the strength requirements for each part while minimizing material usage. The algorithm-driven process considers factors such as load distribution, stress points, and material properties to produce a highly efficient and lightweight design.
 
-Stress testing, on the other hand, involves subjecting a structure to simulated loads to assess its performance and durability. In this skateboard project, stress testing was crucial to validate the generatively designed skateboard trucks as well as the integrity of the deck under the weight of a person. By applying various loads and analyzing the resulting stresses, I ensured that the trucks and deck could withstand the forces exerted during skateboarding maneuvers while also minimizing the amount of printed material.
+Stress testing, on the other hand, involves subjecting a structure to simulated loads to assess its performance and durability. In this skateboard project, stress testing was crucial to validate the generatively designed skateboard trucks as well as the integrity of the deck under the weight of a rider. By applying various loads and analyzing the resulting stresses, I ensured that the trucks and deck could withstand the forces exerted during skateboarding maneuvers while also minimizing the amount of printed material.
 
 # SLS Printing and Generative Design Synergy
 
@@ -38,6 +38,10 @@ In the aerospace industry, where weight reduction is critical for fuel efficienc
 
 # Nylon Truck CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee664d8b6d80d3b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+# Deck Design Rationale
+
+
 
 # Skateboard Deck CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec35f1f6949e1685b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
