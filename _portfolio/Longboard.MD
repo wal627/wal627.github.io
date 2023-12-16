@@ -34,10 +34,10 @@ In the automotive sector, these technologies can revolutionize the design and ma
 In the aerospace industry, where weight reduction is critical for fuel efficiency and flight performance, the integration of generative design and SLS printing can be transformative. Aircraft components can be designed with intricate internal structures that maintain strength while minimizing weight. SLS printing allows for the fabrication of these complex designs using lightweight materials, contributing to the overall weight reduction of the aircraft. This synergy can lead to more fuel-efficient and environmentally sustainable air travel.
 
 # Aluminum Truck CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0" align="left"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Nylon Truck CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0" align="right"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Skateboard Deck CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
