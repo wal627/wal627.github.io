@@ -34,13 +34,13 @@ In the automotive sector, these technologies can revolutionize the design and ma
 In the aerospace industry, where weight reduction is critical for fuel efficiency and flight performance, the integration of generative design and SLS printing can be transformative. Aircraft components can be designed with intricate internal structures that maintain strength while minimizing weight. SLS printing allows for the fabrication of these complex designs using lightweight materials, contributing to the overall weight reduction of the aircraft. This synergy can lead to more fuel-efficient and environmentally sustainable air travel.
 
 # Aluminum Truck CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e0bac353a878b98e9?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Nylon Truck CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ee664d8b6d80d3b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Skateboard Deck CAD Model
-<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ed4beca740aae9bb2?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec35f1f6949e1685b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 # Assembled Skateboard CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6eb96048b8f4238fc3?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
@@ -48,8 +48,6 @@ In the aerospace industry, where weight reduction is critical for fuel efficienc
 # Conclusion
 
 In conclusion, the amalgamation of generative design, stress testing, and SLS printing in the skateboard project exemplifies the innovative strides that can be made in product design and manufacturing. The efficient, lightweight, and structurally optimized components created through these methods have direct applications in industries such as automotive and aerospace. As a computer engineering student, this project provided valuable insights into the practical implementation of cutting-edge technologies, paving the way for future advancements in engineering and manufacturing.
-
-# Generating the Trucks
 
 {% include gallery caption="3D-Printed Phone Holder Gallery" %}
 
