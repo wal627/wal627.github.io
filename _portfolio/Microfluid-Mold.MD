@@ -39,4 +39,5 @@ The homogenizer contains three separate obstacles each connected by a small chan
 # Microfluid Homogenizer CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ea0939bd38a227bfe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-{% include gallery caption="3D-Printed Phone Holder Gallery" %}
+# Test Example
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JZetKleHQ_o?si=L6jhRLS4jSX8T04R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
