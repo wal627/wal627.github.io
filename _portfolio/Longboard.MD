@@ -54,5 +54,3 @@ Since strength was the main concern for this deck, I chose a honeycomb pattern f
 
 In conclusion, the amalgamation of generative design, stress testing, and SLS printing in the skateboard project exemplifies the innovative strides that can be made in product design and manufacturing. The efficient, lightweight, and structurally optimized components created through these methods have direct applications in industries such as automotive and aerospace. As a computer engineering student, this project provided valuable insights into the practical implementation of cutting-edge technologies, paving the way for future advancements in engineering and manufacturing.
 
-{% include gallery caption="3D-Printed Phone Holder Gallery" %}
-
