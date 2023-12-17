@@ -2,17 +2,14 @@
 title: "Generative Design Longboard"
 excerpt: "A longboard with AI-generated trucks and a stress-tested deck"
 header:
-  teaser: /assets/img/Phone-Holder-3.jpeg
+  teaser: /assets/img/NylonTruck.png
 gallery:
-  - url: /assets/img/Phone-Holder-1.jpeg
-    image_path: assets/img/Phone-Holder-1.jpeg
+  - url: /assets/img/NylonTruck.png
+    image_path: assets/img/NylonTruck.png
     alt: "placeholder image 1"
-  - url: /assets/img/Phone-Holder-2.jpeg
-    image_path: assets/img/Phone-Holder-2.jpeg
+  - url: /assets/img/AluminumTruck.mp4
+    image_path: assets/img/AluminumTruck.mp4
     alt: "placeholder image 2"
-  - url: /assets/img/Phone-Holder-3.jpeg
-    image_path: assets/img/Phone-Holder-3.jpeg
-    alt: "placeholder image 3"
 ---
 
 # Project Description
@@ -53,4 +50,8 @@ Since strength was the main concern for this deck, I chose a honeycomb pattern f
 # Conclusion
 
 In conclusion, the amalgamation of generative design, stress testing, and SLS printing in the skateboard project exemplifies the innovative strides that can be made in product design and manufacturing. The efficient, lightweight, and structurally optimized components created through these methods have direct applications in industries such as automotive and aerospace. As a computer engineering student, this project provided valuable insights into the practical implementation of cutting-edge technologies, paving the way for future advancements in engineering and manufacturing.
+
+## Gallery
+{% include gallery caption="Longboard Gallery" %}
+
 
