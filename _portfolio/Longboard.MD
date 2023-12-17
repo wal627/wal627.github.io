@@ -39,7 +39,7 @@ In the aerospace industry, where weight reduction is critical for fuel efficienc
 # Deck Design Rationale
 Since strength was the main concern for this deck, I chose a honeycomb pattern for my board design. Due to the nature of honeycomb wherein each hexagonal wall is supported by other walls, this pattern provides astonishing compressive strength that will help my board withstand impact forces while riding. On top of this, it looks cooler than the rectangular and circular patterns I tested beforehand. I added parameters for the wall thickness in between each hexagon, as well as the overall thickness of the board for easy adjusting. I then ran a load simulation with a 200-pound rider placed at the center of the board and observed the deflection of the plastic. Too much deflection and the board might snap, and too little deflection can hinder turning and comfort while riding. I was aiming for a deflection of about 12mm, so I readjusted my board's thickness and resimulated the load until this deflection was met. After tweaking the parameters and re-simulating the load three times (shown below), I came to a final board thickness of 16mm. 
 
-<img src="../assets/img/StressTest.png" alt="Stress Test" width="800" height="480">
+<img src="assets/img/StressTest.png" alt="Stress Test" width="800" height="480">
 
 # Skateboard Deck CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6ec35f1f6949e1685b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
