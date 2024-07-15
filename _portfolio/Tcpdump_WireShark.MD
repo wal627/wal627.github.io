@@ -1,4 +1,3 @@
-
 ---
 title: "Tcpdump vs. WireShark"
 excerpt: "A brief comparison of the two packet sniffers including their usages, limitatons, and learnability."
