@@ -1,3 +1,10 @@
+---
+title: "Security Incident Report"
+excerpt: "An example report for a security incident and recommended actions."
+header:
+  teaser: /assets/img/Phone-Holder-3.jpeg
+---
+
 # Security Incident Report
 
 ## Section 1: Identify the Network Protocol Involved in the Incident
