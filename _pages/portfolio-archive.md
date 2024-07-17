@@ -7,4 +7,9 @@ entries_layout: grid
 classes: wide
 ---
 
+My Cybersecurity portfolio:
+-[Tcpdump vs. WireShark Comparison]()
+-[Security Risk Assessment Report]()
+-[Security Incident Report]()
+
 My digital fabrication projects:
