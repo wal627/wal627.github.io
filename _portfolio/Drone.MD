@@ -68,3 +68,6 @@ Despite the bumps along the road, we managed to build a functional, low-cost aut
 
 Check out our [project on GitHub](https://github.com/wal627/milo-the-drone) if you're interested!
 
+## Gallery
+{% include gallery caption="Longboard Gallery" %}
+
