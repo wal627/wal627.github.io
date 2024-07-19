@@ -8,7 +8,7 @@ header:
   actions:
     - label: "My Projects"
       url: "/portfolio/"
-excerpt: "Hello! My name is Walker Larivee and I am a student at Vanderbilt University studying Computer and Electrical Engineering. I have a passion for innovation and enjoy making ideas into reality through digital fabrication and programming."
+excerpt: "Hello! My name is Walker Larivee and I am a recent graduate from Vanderbilt University, where I earned my degree in Computer and Electrical Engineering. I have a passion for innovation and enjoy making ideas into reality through digital fabrication and programming."
 feature_row:
   - image_path: assets/img/Engine.jpg
     alt: "Engine Valves"
