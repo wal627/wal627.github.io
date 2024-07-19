@@ -1,5 +1,5 @@
 ---
-title: "Emotion Facial Classification with Masks"
+title: "Classifying Emotions Through Masks"
 excerpt: "Using machine learning to determine emotions of faces in masks."
 header:
   teaser: /assets/img/ML-1.png
@@ -55,3 +55,6 @@ We also compared models trained on masked vs. unmasked data. Models trained on u
 One big challenge was the imbalanced dataset, making it tough to develop models that worked well for minority classes. We used image augmentation and experimented with different loss functions to mitigate this. For future work, we might balance the dataset with more examples or try models trained on each emotion class independently and combine their predictions.
 
 Check out our [project on GitHub](https://github.com/wal627/EmotionDetection) if you're interested!
+
+## Gallery
+{% include gallery caption="Emotion Detection Gallery" %}
