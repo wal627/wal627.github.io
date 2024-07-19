@@ -7,9 +7,9 @@ header:
 
 ## Introduction
 
-So, emotion recognition is all about developing models that can understand human emotions from various inputs like facial expressions, voice tones, body movements, and even text. The idea is to help machines interpret and respond to emotions in a human-like manner. This technology can be super useful in areas like customer service, healthcare, and even automotive safety by assessing a driver's emotional state.
+Emotion recognition involves developing machine learning models that can understand human emotions from various inputs like facial expressions, voice tones, body movements, and even text. The idea is to help machines interpret and respond to emotions in a human-like manner. This technology can be super useful in areas like customer service, healthcare, and even automotive safety by assessing a driver's emotional state.
 
-For this project, I worked with a small group of engineers to develop our own models for emotion classification. However, our models contained a unique twist inspired by the COVID-19 pandemic. We wanted to see how well these models could classify emotions when people are wearing masks. We used the FER2013 dataset, which has thousands of images of human faces, to investigate this. Our big question was: Can models accurately classify emotions when the lower part of the face is covered by a mask? We hypothesized that they would struggle because masks hide many facial features that are crucial for understanding emotions.
+For this project, I worked with a small group of engineers to develop our own models for emotion classification. However, our models contained a unique twist inspired by the COVID-19 pandemic. We wanted to see how well our models could classify emotions when people are wearing masks. We used the FER2013 dataset, which has thousands of images of human faces, to investigate this. Our big question was: Can models accurately classify emotions when the lower part of the face is covered by a mask? We hypothesized that they would struggle because masks hide many facial features that are crucial for understanding emotions.
 
 ## Literature Review
 
