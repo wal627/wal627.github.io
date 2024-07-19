@@ -5,7 +5,7 @@ header:
   teaser: /assets/img/Cyber-Scooter-TH.jpg
 ---
 
-# Features
+## Features
 
 * Customizable and easily readable Arduino IDE code with variable max flow rate, speed, LED colors, etc.
   * Access the code [HERE](https://github.com/wal627/Syringe-Pump/blob/main/Syringe_pot.ino)
@@ -16,9 +16,9 @@ header:
 * Physical limit switch to prevent running past the end stop.
 * Electronics are fully enclosed in a water-resistant case.
 
-# Parts
+## Parts
 
-## Off-the-Shelf Parts
+# Off-the-Shelf Parts
 
 | Quantity | Part                              |
 |----------|-----------------------------------|
@@ -42,7 +42,7 @@ header:
 | x6       | M5 Tee Nut                        |
 | x6       | M5 8mm Bolt                       |
 
-## 3D-Printed Parts
+# 3D-Printed Parts
 
 | Quantity | Part             |
 |----------|------------------|
@@ -55,5 +55,5 @@ header:
 | x1       | Box Lid          |
 
 
-# CAD Model
+## CAD Model
 <iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH512d4QTec90decfa6e6972764160d20dbe?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
