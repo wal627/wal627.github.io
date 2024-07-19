@@ -18,7 +18,7 @@ gallery:
     alt: "placeholder image 4"
 ---
 
-### Project Overview: Building a Budget Autonomous Drone
+## Project Overview: Building a Budget Autonomous Drone
 
 For this project, I worked with a team of four other engineers to design and prototype a low-cost autonomous UAV for Lockheed Martin using off-the-shelf parts and open-source software. The idea was to make a modular drone that could handle perimeter surveillance autonomously, all while mminimizing costs.
 
@@ -29,7 +29,7 @@ For this project, I worked with a team of four other engineers to design and pro
 5. **Autonomy**: Basic autonomous flight and object recognition.
 6. **Cost-Efficiency**: Keep the project under $800.
 
-### Our Journey from Start to Finish
+## Our Journey from Start to Finish
 
 **1. Research and Design**
    - Since we were all new to the drone world, we started with a lot of brainstorming and research to discover what goes into fabricating a drone. Then, along with our sponsor, Lockheed Martin, we defined the scope of our project, divided the project into deliverable chunks, and created a rough timeline for each deliverable.
@@ -48,7 +48,7 @@ For this project, I worked with a team of four other engineers to design and pro
    - We first tested the drone manually to ensure our thrust and power calculations were correct, then programmed a series of autonomous flight patterns for the drone to attempt.
    - The drone was successfully able to fly autonomously between two set waypoints on a map, recognize objects in real-time, and return to its original take-off point once its battery was depleted.
 
-### Challenges We Faced
+## Challenges We Faced
 
 **Part Delays:** Some of the parts we ordered took a long time to arrive, which delayed our timeline significantly. This was especially apparent when our only set of propellers broke while testing the drone, and we had to wait a full week for our new ones to arrive before we could resume testing.
 
@@ -56,13 +56,13 @@ For this project, I worked with a team of four other engineers to design and pro
 
 **Compatibility Issues:** Not all the off-the-shelf parts played nice together. We had to get pretty creative, rigging things up to make them work and designing custom 3D-modeled brackets to fit our frame.
 
-### Budget and Constraints
+## Budget and Constraints
 
 - We had to keep our spending under $800, which was tight but doable with careful planning.
 - Some components like the flight controller and on-board computer were provided (though still included in the budget).
 - We also had to make sure we followed all local and FAA regulations.
 
-### Wrapping Up
+## Wrapping Up
 
 Despite the bumps along the road, we managed to build a functional, low-cost autonomous drone. It was a fantastic learning experience, testing our problem-solving skills and ability to work as a team. Our drone met the key objectives of being able to recognize objects and achieving basic autonomous flight, setting a great foundation for future improvements.
 
