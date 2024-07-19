@@ -12,7 +12,7 @@ My Cybersecurity portfolio:
 - [Applying Filters to SQL Queries](/assets/pdf/FilterSqlQueries.pdf)
 - [Updating IP Whitelist Using A Python Script](/assets/pdf/FileUpdatePython.pdf)
 - [Tcpdump vs. WireShark Comparison](/assets/pdf/TcpdumpWireShark.pdf)
-- [Security Risk Assessment Report](/assets/pdf/SecurityRiskAssessment.pdf)
+- [Security Risk Assessment Report](/assets/pdf/SecurityRiskAssessmentReport.pdf)
 - [Security Audit](/assets/pdf/SecurityAudit.pdf)
 - [Incident Report Analysis](/assets/pdf/IncidentReportAnalysis.pdf)
 - [Incident Handler's Journal Entry](/assets/pdf/IncidentHandlerJournal.pdf)
