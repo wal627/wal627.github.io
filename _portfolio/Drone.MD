@@ -1,13 +1,33 @@
+---
+title: "Low-cost Autonomous UAV"
+excerpt: "A DIY drone capable of autonomous flight and object recognition, all for under $800!"
+header:
+  teaser: /assets/img/Pliers1.jpg
+gallery:
+  - url: /assets/img/Pliers1.jpg
+    image_path: assets/img/Pliers1.jpg
+    alt: "placeholder image 1"
+  - url: /assets/img/Pliers2.jpeg
+    image_path: assets/img/Pliers2.jpg
+    alt: "placeholder image 2"
+  - url: /assets/img/Pliers3.jpg
+    image_path: assets/img/Pliers3.jpg
+    alt: "placeholder image 3"
+  - url: /assets/img/PliersGif.gif
+    image_path: assets/img/PliersGif.gif
+    alt: "placeholder gif"
+---
+
 ### Project Overview: Building a Budget Autonomous Drone
 
-For this project, I worked with a team of four other engineers to design and prototype a low-cost autonomous UAV for Lockheed Martin using off-the-shelf parts and open-source software. The idea was to make a modular drone that could handle perimeter surveillance autonomously, all while keeping costs under control.
+For this project, I worked with a team of four other engineers to design and prototype a low-cost autonomous UAV for Lockheed Martin using off-the-shelf parts and open-source software. The idea was to make a modular drone that could handle perimeter surveillance autonomously, all while mminimizing costs.
 
 **Key Goals:**
 1. **Modularity**: Easy to adapt for different tasks.
 2. **GPS Positioning**: Accurate location tracking.
 3. **On-board Imaging and Sensing**: Capturing and processing live images.
 5. **Autonomy**: Basic autonomous flight and object recognition.
-6. **Cost-Efficiency**: Keep the project under $500 (excluding a few provided components).
+6. **Cost-Efficiency**: Keep the project under $800.
 
 ### Our Journey from Start to Finish
 
@@ -38,8 +58,8 @@ For this project, I worked with a team of four other engineers to design and pro
 
 ### Budget and Constraints
 
-- We had to keep our spending under $500, which was tight but doable with careful planning.
-- Some components like the flight controller and on-board computer were provided, which helped a lot.
+- We had to keep our spending under $800, which was tight but doable with careful planning.
+- Some components like the flight controller and on-board computer were provided (though still included in the budget).
 - We also had to make sure we followed all local and FAA regulations.
 
 ### Wrapping Up
