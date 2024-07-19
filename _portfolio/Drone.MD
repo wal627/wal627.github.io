@@ -2,20 +2,20 @@
 title: "Low-cost Autonomous UAV"
 excerpt: "A DIY drone capable of autonomous flight and object recognition, all for under $800!"
 header:
-  teaser: /assets/img/Pliers1.jpg
+  teaser: /assets/img/DroneOutside.jpg
 gallery:
-  - url: /assets/img/Pliers1.jpg
-    image_path: assets/img/Pliers1.jpg
+  - url: /assets/img/DroneTeam.jpg
+    image_path: assets/img/DroneTeam.jpg
     alt: "placeholder image 1"
-  - url: /assets/img/Pliers2.jpeg
-    image_path: assets/img/Pliers2.jpg
+  - url: /assets/img/DroneOutside.jpeg
+    image_path: assets/img/DroneOutside.jpg
     alt: "placeholder image 2"
-  - url: /assets/img/Pliers3.jpg
-    image_path: assets/img/Pliers3.jpg
+  - url: /assets/img/DroneFloor.jpg
+    image_path: assets/img/DroneFloor.jpg
     alt: "placeholder image 3"
-  - url: /assets/img/PliersGif.gif
-    image_path: assets/img/PliersGif.gif
-    alt: "placeholder gif"
+  - url: /assets/img/DroneAir.jpg
+    image_path: assets/img/DroneAir.jpg
+    alt: "placeholder image 4"
 ---
 
 ### Project Overview: Building a Budget Autonomous Drone
