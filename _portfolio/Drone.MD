@@ -67,7 +67,8 @@ For this project, I worked with a team of four other engineers to design and pro
 Despite the bumps along the road, we managed to build a functional, low-cost autonomous drone. It was a fantastic learning experience, testing our problem-solving skills and ability to work as a team. Our drone met the key objectives of being able to recognize objects and achieving basic autonomous flight, setting a great foundation for future improvements.
 
 Check out our [project on GitHub](https://github.com/wal627/milo-the-drone) if you're interested!
+Additionally, see our [full report]() for this project and our [component selection list]()!
 
 ## Gallery
-{% include gallery caption="Longboard Gallery" %}
+{% include gallery caption="Drone Gallery" %}
 
