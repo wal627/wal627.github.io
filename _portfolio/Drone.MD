@@ -16,6 +16,9 @@ gallery:
   - url: /assets/img/DroneAir.jpg
     image_path: assets/img/DroneAir.jpg
     alt: "placeholder image 4"
+  - url: /assets/img/GanttChart.png
+    image_path: assets/img/GanttChart.png
+    alt: "placeholder image 5"
 ---
 
 ## Project Overview: Building a Budget Autonomous Drone
