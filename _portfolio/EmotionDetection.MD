@@ -1,4 +1,9 @@
-# Emotion Facial Classification with Masks: A Conversation About Our Project
+---
+title: "Emotion Facial Classification with Masks"
+excerpt: "Using machine learning to determine emotions of faces in masks."
+header:
+  teaser: /assets/img/Pliers1.jpg
+---
 
 ## Introduction
 
