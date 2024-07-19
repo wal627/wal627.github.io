@@ -2,7 +2,20 @@
 title: "Emotion Facial Classification with Masks"
 excerpt: "Using machine learning to determine emotions of faces in masks."
 header:
-  teaser: /assets/img/Pliers1.jpg
+  teaser: /assets/img/ML-1.png
+gallery:
+  - url: /assets/img/ML-1.png
+    image_path: assets/img/ML-1.png
+    alt: "placeholder image 1"
+  - url: /assets/img/ML-2.png
+    image_path: assets/img/ML-2.png
+    alt: "placeholder image 2"
+  - url: /assets/img/ML-3.png
+    image_path: assets/img/ML-3.png
+    alt: "placeholder image 3"
+  - url: /assets/img/ML-4.png
+    image_path: assets/img/ML-4.png
+    alt: "placeholder image 4"
 ---
 
 ## Introduction
